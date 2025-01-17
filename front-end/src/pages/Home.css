@@ -1,0 +1,21 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@600&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Lato:wght@700&display=swap");
+
+.HomeFont {
+  font-family: "Lato", sans-serif;
+  font-size: 5rem;
+  color: #e28d48;
+  text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.678);
+  margin-top: 0;
+}
+body {
+  height: 100%;
+}
+.parallax {
+  background-image: url("../pages/Images/Homepage.jpg");
+  height: 100%;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}

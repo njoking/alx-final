@@ -1,0 +1,6 @@
+.fixed-buttons {
+    position: fixed;
+    top: calc(100vh/2);
+    right: 0;
+    z-index: 1000;
+  }
